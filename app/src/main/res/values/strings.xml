@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Notes</string>
+    <string name="title">Title:</string>
+    <string name="content">Content:</string>
+    <string name="save">Save</string>
+    <string name="date_created">Date Created:</string>
+    <string name="date_last_modified">Date Last Modified:</string>
+    <string name="delete">Delete</string>
+    <string name="details">Details</string>
+</resources>
